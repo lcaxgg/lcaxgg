@@ -1,10 +1,9 @@
-<h2> yo! <img src="https://media.tenor.com/qKGlaYl2DqMAAAAi/gif-de-sauda%C3%A7%C3%A3o.gif" width="50"></h2>
+<h2> Hello there! <img src="https://media.tenor.com/qKGlaYl2DqMAAAAi/gif-de-sauda%C3%A7%C3%A3o.gif" width="50"></h2>
 
 ```javascript
 const pinoy = {
   pronouns: "he" | "him"",
-  bio: "Passionate iOS Developer with over 2 years of professional experience specializing in
-        Objective-C and possessing intermediate-level proficiency in Swift.",
+  bio: "I have over two years of experience in iOS Development.",
   techStack: [Object-Oriented Programming (OOP),
               Objective-C, Swift, UIKit, SwiftUI,
               Core Data, SQLite, Firebase,
