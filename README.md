@@ -12,8 +12,8 @@ const pinoy = {
               Json, Restful API,
               Xcode, Jira, SourceTree,
               Git, Gitlab, Github,
-              Design Patterns (e.g., MVC, MVVM, MVP)],
-              CoreML, TDD
+              Design Patterns (e.g., MVC, MVVM, MVP),
+              CoreML, TDD]
 }
 ```
 
