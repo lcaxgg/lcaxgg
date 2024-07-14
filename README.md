@@ -5,13 +5,15 @@ const pinoy = {
   pronouns: "he" | "him"",
   bio: "I have over two years of experience in iOS Development.",
   techStack: [Object-Oriented Programming (OOP),
+              Protocol-Oriented Programmning (POP),
               Objective-C, Swift, UIKit, SwiftUI,
               Core Data, SQLite, Firebase,
               Cocoapods, Cocoa Touch,
               Json, Restful API,
               Xcode, Jira, SourceTree,
               Git, Gitlab, Github,
-              Design Patterns (e.g., MVC, MVVM)],
+              Design Patterns (e.g., MVC, MVVM, MVP)],
+              CoreML, TDD
 }
 ```
 
