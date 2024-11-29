@@ -19,7 +19,6 @@ const pinoy = {
 
 ## Connect with me
 
-[![Instagram: _j8bok](https://img.shields.io/badge/Instagram-_j8bok-orange?style=social&logo=instagram)](https://www.instagram.com/_j8bok/)
 [![Gmail: jayvee.d.ercia@gmail.com](https://img.shields.io/badge/Gmail-jayvee.d.ercia%40gmail.com-red?style=social&logo=gmail)](mailto:jayvee.d.ercia@gmail.com)
 [![Linkedin: jayveee](https://img.shields.io/badge/-Jayvee_Ercia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayvee-e/)](https://www.linkedin.com/in/jayvee-e/)
 
