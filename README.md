@@ -3,7 +3,7 @@
 ```javascript
 const pinoy = {
   pronouns: "he" | "him"",
-  bio: "I have over two years of experience in iOS Development.",
+  bio: "I have over three years of experience in iOS Development.",
   techStack: [Object-Oriented Programming (OOP),
               Protocol-Oriented Programmning (POP),
               Objective-C, Swift, UIKit, SwiftUI,
