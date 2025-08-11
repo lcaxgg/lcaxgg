@@ -2,9 +2,6 @@
 
 ```javascript
 const pinoy = {
-  bio: `A digital sorcerer, bending the rules of reality with Swift spells and logic-fueled enchantments.
-        Where others see bugs, I see curses to be lifted.
-        Where others see crashes, I see magic waiting to be refined.`,
   techStack: [Object-Oriented Programming (OOP),
               Protocol-Oriented Programmning (POP),
               Objective-C, Swift, UIKit, SwiftUI,
